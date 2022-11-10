@@ -1,7 +1,7 @@
 # IBMSME-2022
 # INTRODUCTORY DAY
-1)We get familer with vega.com .
-2)Worked with bar charts and exported graph to our Github.
+1) We get familer with vega.com.
+2) Worked with bar charts and exported graph to our Github.
 # Day - 1 : Data Source
 1) Collected unprocessed data from different websites and converted them into different file extension. 
 2) Created Github repository and uploaded all data( all extension).
